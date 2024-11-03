@@ -1,0 +1,10 @@
+# Ignore common temporary files
+.DS_Store
+Thumbs.db
+
+# Ignore rust temporary files
+/target
+
+# Ignore nix direnv temporary files
+.direnv/
+
